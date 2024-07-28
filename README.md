@@ -4,11 +4,11 @@
 Welcome to MeetForums, an innovative extension designed to enhance your Google Meet experience. With MeetForums, you can transform your virtual meetings into dynamic discussion forums, fostering deeper engagement and seamless collaboration.
 
 ##### Key Features:
--**Integrated Discussions**: Create and manage forums directly within your Google Meet interface.
--**Enhanced Collaboration**: Share ideas, ask questions, and provide feedback in a structured environment.
--**Real-Time Interaction**: Facilitate live discussions during meetings, ensuring everyone's voice is heard.
--**Organized Content**: Keep your meeting topics and threads well-organized for easy reference and follow-up.
--**Multi-Language Support**: Engage a diverse audience with support for multiple languages.
+- **Integrated Discussions**: Create and manage forums directly within your Google Meet interface.
+- **Enhanced Collaboration**: Share ideas, ask questions, and provide feedback in a structured environment.
+- **Real-Time Interaction**: Facilitate live discussions during meetings, ensuring everyone's voice is heard.
+- **Organized Content**: Keep your meeting topics and threads well-organized for easy reference and follow-up.
+- **Multi-Language Support**: Engage a diverse audience with support for multiple languages.
 
 MeetForums aims to make every meeting a meaningful conversation by providing the tools you need to keep discussions productive and engaging. Whether you're hosting a team meeting, conducting a workshop, or running a virtual event, MeetForums has you covered.
 
