@@ -1,4 +1,5 @@
-### MeetForums: Enhance Your Google Meet Discussions (Still under development, just can use basic function)
+### MeetForums: Enhance Your Google Meet Discussions 
+(Still under development, just can use basic function)
 
 Welcome to MeetForums, an innovative extension designed to enhance your Google Meet experience. With MeetForums, you can transform your virtual meetings into dynamic discussion forums, fostering deeper engagement and seamless collaboration.
 
@@ -31,6 +32,6 @@ MeetForums aims to make every meeting a meaningful conversation by providing the
 3. Click forums icon and enjoy.
 
 ### Version UpdateLog
-##### V0.10
+##### v0.10
 - Still in development. Welcome anyone pull request for help.
 - Implement Basic forums function. Nothing Special.
