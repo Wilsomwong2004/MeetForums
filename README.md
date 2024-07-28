@@ -26,7 +26,7 @@ MeetForums aims to make every meeting a meaningful conversation by providing the
 4. Turn on the extension and enjoy.
 
 ##### How to use?
-1. Click the extension and input the Google Chat Spaces ID (Send forums to Google Chat functions)
+1. Click the extension and input the Google Chat Spaces ID (Send forums to Google Chat functions [Coming soon])
    https://mail.google.com/chat/u/0/#chat/space/ **xxxxxxxxxxx**
 2. Enter the meeting and will see the forums icon beside chat icon
 3. Click forums icon and enjoy.
