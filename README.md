@@ -27,7 +27,7 @@ MeetForums aims to make every meeting a meaningful conversation by providing the
 
 ##### How to use?
 1. Click the extension and input the Google Chat Spaces ID (For send meeting transcripts to Google Chat after the meeting ends)
-   "https://mail.google.com/chat/u/0/#chat/space/ **xxxxxxxxxxx**"
+   https://mail.google.com/chat/u/0/#chat/space/ **xxxxxxxxxxx**
 2. Enter the meeting and will see the forums icon beside chat icon
 3. Click forums icon and enjoy.
 
