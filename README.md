@@ -18,7 +18,7 @@ MeetForums aims to make every meeting a meaningful conversation by providing the
 - More Settings Functions will enabled. (Darkmode, Interface Language)
 - MORE!
 
-#### Instructions
+### Instructions
 ##### Install
 1. Download the folders from Github.
 2. Open the browser extensions that using.
